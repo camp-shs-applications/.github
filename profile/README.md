@@ -1,4 +1,4 @@
-# CAMP SHS Applications
+# CAMP Shared Services Applications
 
 Internal engineering organization for automation platforms, cloud infrastructure,
 audit tooling, ERP integrations, and reporting systems.
